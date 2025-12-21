@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BALALAIKA",
+  "base_artist": "9Lana",
+  "createdAt": "2025-12-21T04:28:11.965157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Balalaika",
+      "artist": "Valentina Ponzone",
+      "has_synced": true,
+      "path": "select/01_Balalaika_Valentina_Ponzone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PATRIOT BALALAIKA",
+      "artist": "-MASA Works DESIGN-",
+      "has_synced": false,
+      "path": "select/02_PATRIOT_BALALAIKA_-MASA_Works_DESIGN-.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want Your Balalaika (feat. The Supertroyka Girls)",
+      "artist": "Mad Cow and the Royal Eurobeat Orchestra of Bazookistan",
+      "has_synced": false,
+      "path": "select/03_I_Want_Your_Balalaika_(feat._The_Supertroyka_Girls)_Mad_Cow_and_the_Royal_Eurobeat_Orchestra_of_Bazookistan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want Your Balalaika",
+      "artist": "Mad Cow & The Royal Eurobeat Orchestra of Bazookistan feat. The Supertroyka Girls",
+      "has_synced": false,
+      "path": "select/04_I_Want_Your_Balalaika_Mad_Cow_&_The_Royal_Eurobeat_Orchestra_of_Bazookistan_feat._The_Supertroyka_Girl.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Balalaïka",
+      "artist": "Dooz Kawa",
+      "has_synced": true,
+      "path": "select/05_Balalaïka_Dooz_Kawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Balalaïka",
+      "artist": "Dooz Kawa/Mandino Reinhardt",
+      "has_synced": true,
+      "path": "select/06_Balalaïka_Dooz_Kawa_Mandino_Reinhardt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spiel Balalaika",
+      "artist": "Dalida",
+      "has_synced": true,
+      "path": "select/07_Spiel_Balalaika_Dalida.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Patriot Balalaika",
+      "artist": "MASA Works DESIGN",
+      "has_synced": true,
+      "path": "select/08_Patriot_Balalaika_MASA_Works_DESIGN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spiel Balalaika",
+      "artist": "Dalida",
+      "has_synced": false,
+      "path": "select/09_Spiel_Balalaika_Dalida.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Schwarze Balalaika",
+      "artist": "Alexandra",
+      "has_synced": true,
+      "path": "select/10_Schwarze_Balalaika_Alexandra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BALALAIKA",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/11_BALALAIKA_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Balalaika, Carried With The Wind (Jondi & Spesh mix)",
+      "artist": "Julie Frost",
+      "has_synced": false,
+      "path": "select/12_Balalaika,_Carried_With_The_Wind_(Jondi_&_Spesh_mix)_Julie_Frost.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Balalaika",
+      "artist": "XS Project",
+      "has_synced": true,
+      "path": "select/13_Balalaika_XS_Project.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Balalaïka",
+      "artist": "Dooz Kawa feat. Mandino Reinhardt",
+      "has_synced": true,
+      "path": "select/14_Balalaïka_Dooz_Kawa_feat._Mandino_Reinhardt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BALALAIKA",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_BALALAIKA_9Lana.txt"
+    }
+  ]
+}
